@@ -1,0 +1,1 @@
+This project is about building a system that can predict whether an object is a Rock or a Mine using SONAR data. A Logistic Regression model for the prediction part. All the coding and experiments are being done in Google Colab.
